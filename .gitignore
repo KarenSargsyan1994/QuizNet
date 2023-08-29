@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QuizNet/.vs/QuizNet/FileContentIndex
+/QuizNet/Domain/obj/Debug/net7.0
+/QuizNet/Domain/obj
+/QuizNet/Infrastructure/obj
+/QuizNet/QuizNet/obj
